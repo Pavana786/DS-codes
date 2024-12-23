@@ -23,7 +23,7 @@ for(c=0;c<n-1;c++)
         
     }
 }
-printf("The stack after:\n");
+printf("The list in ascending order :\n");
 for(i=0;i<n;i++)
 printf("%d\n",a[i]);
 return 0;
